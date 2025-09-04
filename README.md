@@ -11,10 +11,7 @@
   <a href="https://www.linkedin.com/in/anshika-priya/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/anshika1501">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</div>
+ </div>
 
 ---
 
@@ -22,7 +19,6 @@
 
 I'm a **Computer Science graduate** currently pursuing my **Master of Computer Applications** at MIT-WPU, Pune. I'm passionate about creating user-friendly applications and constantly learning new technologies in mobile and web development.
 
-- 🔭 Currently working on mobile development with **Kotlin** and **Java**
 - 🌱 Learning advanced **React** and **Firebase** integration
 - 💡 Love building applications that solve real-world problems
 - 📱 Experienced in **Android development** with modern architecture patterns
@@ -40,16 +36,13 @@ I'm a **Computer Science graduate** currently pursuing my **Master of Computer A
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-</div>
+ </div>
 
 ### Frameworks & Libraries
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white" alt="Jetpack Compose"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-</div>
+  </div>
 
 ### Databases & Tools
 <div align="center">
