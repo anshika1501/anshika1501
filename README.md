@@ -102,7 +102,7 @@ Machine learning model for health prediction:
 ## 🎓 Education
 
 **Master of Computer Applications** | *MIT-WPU, Pune* (2024 - Present)  
-📈 CGPA: 7.82
+📈 CGPA: 7.99
 
 **Bachelor of Science in Computer Science** | *BIT Mesra* (2021 - 2024)  
 🏆 CGPA: 8.78
