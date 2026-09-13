@@ -60,49 +60,39 @@ I'm a **Computer Science graduate** currently pursuing my **Master of Computer A
 
 ## 🏆 Featured Projects
 
-### 🍕 BiteBuddy - Food Delivery Mobile App
+### StockCompassAI – AI-Powered Stock Analysis Platform
+
+**Tech Stack:** Next.js, React, TypeScript, Django REST Framework, PostgreSQL, Python, TensorFlow, ARIMA, RAG, LLMs
+
+* Built a full-stack stock analysis platform providing market data, portfolio management, sector analysis, clustering, and forecasting.
+* Implemented ML-based forecasting using LSTM and ARIMA, along with PCA and K-Means for stock clustering.
+* Developed an LLM-powered financial assistant using RAG, embeddings, and financial data to provide contextual responses.
+* Deployed the application using Docker on Azure VM with Azure DevOps CI/CD.
+
+### NeuralPulse – AI-Powered Healthcare System
+
+**Tech Stack:** Python, Django REST Framework, React, PostgreSQL, Scikit-learn, Docker, Celery, Redis
+
+* Developed a healthcare platform for managing patient records, symptoms, medications, predictions, alerts, and monitoring.
+* Built a Random Forest disease prediction model using patient symptom data and integrated it into the Django REST API.
+* Implemented an AI chatbot using an LLM API to provide conversational assistance based on healthcare information.
+* Containerized the application with Docker and deployed it on Azure using Azure DevOps CI/CD.
+
+### BiteBuddy – Food Delivery Mobile App
+
 **Tech Stack:** Java, Kotlin, Firebase, Android Studio
 
-A comprehensive Android food delivery application with real-time features:
-- 🔐 **Secure Authentication** with Firebase Auth
-- 🛒 **Dynamic Cart Management** with real-time cost calculation
-- 📱 **Modern UI** following Material Design principles
-- ⚡ **Optimized Performance** with ProGuard integration
-- 🏗️ **Clean Architecture** using MVVM pattern and Hilt DI
+* Developed an Android food delivery application with Firebase authentication, cart management, and checkout functionality.
+* Implemented MVVM architecture and Hilt dependency injection for maintainable application structure.
+* Designed a responsive mobile UI following Material Design principles and optimized the app using ProGuard.
 
-### 📝 Notes Management Mobile App
-**Tech Stack:** Kotlin, Room Database, Android Studio
-
-A sleek note-taking application with local persistence:
-- 💾 **Local Storage** supporting 1000+ notes
-- 🎨 **Material Design** components for clean UI
-- 🔍 **Search & Categorization** for better organization
-- ⚡ **60% faster** app load time optimization
-
-### 💰 Eat and Split Web Application
-**Tech Stack:** React, JavaScript, CSS
-
-Interactive expense management for groups:
-- 👥 **Real-time Bill Splitting** among friends
-- ⚛️ **React Hooks** for dynamic state management
-- 🔄 **Live Balance Updates** with instant calculations
-- 🧩 **Reusable Components** for scalable architecture
-
-### 🏥 Diabetes Prediction ML Model
-**Tech Stack:** Python, Scikit-learn, Pandas
-
-Machine learning model for health prediction:
-- 🎯 **85% Accuracy** in diabetes prediction
-- 📊 **Data Analysis** on 768+ patient records
-- 🔬 **Feature Engineering** for optimal performance
-- 🤖 **Multiple Algorithms** with pipeline optimization
 
 ---
 
 ## 🎓 Education
 
 **Master of Computer Applications** | *MIT-WPU, Pune* (2024 - Present)  
-📈 CGPA: 7.99
+📈 CGPA: 8.03
 
 **Bachelor of Science in Computer Science** | *BIT Mesra* (2021 - 2024)  
 🏆 CGPA: 8.78
